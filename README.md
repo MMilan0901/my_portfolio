@@ -1,2 +1,14 @@
 # my_portfolio
-This is my portfolio where I collect all of my projects I uploaded here in GitHub.
+
+## Projects
+
+### Python Projects
+- [Number Guessing Game - Console App]: A basic game where you have to guess a number.
+
+### Java Projects
+
+### C Projects
+
+### C++ Projects
+
+### C# Projects
